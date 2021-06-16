@@ -122,7 +122,7 @@ if ($_SESSION['id_user'] == null) {
                                 <a href="#" class="nav-link">
                                     <i class="nav-icon fas fa-edit"></i>
                                     <p>
-                                        Forms
+                                        Formssssss
                                         <i class="fas fa-angle-left right"></i>
                                     </p>
                                 </a>

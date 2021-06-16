@@ -171,7 +171,7 @@ if ($_SESSION['id_user'] == null) {
                                 <a href="#" class="nav-link active">
                                     <i class="nav-icon fas fa-table"></i>
                                     <p>
-                                        Tablesssssss
+                                        Tables
                                         <i class="fas fa-angle-left right"></i>
                                     </p>
                                 </a>
